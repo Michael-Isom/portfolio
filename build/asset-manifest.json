@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.74b6461e.css",
-    "main.js": "/static/js/main.b8f2a226.js",
-    "static/js/453.8c68eb57.chunk.js": "/static/js/453.8c68eb57.chunk.js",
-    "index.html": "/index.html",
-    "main.74b6461e.css.map": "/static/css/main.74b6461e.css.map",
-    "main.b8f2a226.js.map": "/static/js/main.b8f2a226.js.map",
-    "453.8c68eb57.chunk.js.map": "/static/js/453.8c68eb57.chunk.js.map"
+    "main.css": "/michaelisom.github.io/developer-portfolio/static/css/main.74b6461e.css",
+    "main.js": "/michaelisom.github.io/developer-portfolio/static/js/main.e81c5acf.js",
+    "static/js/453.8c68eb57.chunk.js": "/michaelisom.github.io/developer-portfolio/static/js/453.8c68eb57.chunk.js",
+    "index.html": "/michaelisom.github.io/developer-portfolio/index.html",
+    "main.74b6461e.css.map": "/michaelisom.github.io/developer-portfolio/static/css/main.74b6461e.css.map",
+    "main.e81c5acf.js.map": "/michaelisom.github.io/developer-portfolio/static/js/main.e81c5acf.js.map",
+    "453.8c68eb57.chunk.js.map": "/michaelisom.github.io/developer-portfolio/static/js/453.8c68eb57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74b6461e.css",
-    "static/js/main.b8f2a226.js"
+    "static/js/main.e81c5acf.js"
   ]
 }
