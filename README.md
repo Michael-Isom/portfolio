@@ -21,7 +21,6 @@ Tech Behind the Portfolio 💻
 This portfolio was built using HTML, CSS, JavaScript, and some modern web development practices like responsive design and clean UI principles. I’ve used Git for version control and have included projects demonstrating my proficiency in:
 
 	•	Front-end frameworks like React
-	•	Back-end development with Node.js and Express
 	•	Databases like MongoDB and PostgreSQL
 	•	Drone-related tech (surprise, right?)
 
